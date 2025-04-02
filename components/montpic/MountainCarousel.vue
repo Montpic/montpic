@@ -18,7 +18,7 @@ const images = [
                 <div class="p-1">
                     <Card>
                         <CardContent class="flex flex-col aspect-square items-center justify-center p-6">
-                            <NuxtImg :src="image.link" />
+                            <img :src="image.link" />
                             <p>{{ image.name }}</p>
                         </CardContent>
                     </Card>
