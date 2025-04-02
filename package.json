@@ -38,6 +38,6 @@
   },
   "devDependencies": {
     "typescript": "^5.8.2",
-    "@nuxtjs/color-mode": "^3.5.2",
+    "@nuxtjs/color-mode": "^3.5.2"
   }
 }
